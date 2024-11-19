@@ -1,0 +1,1 @@
+Esta practica consta de crear una pagina de recetas. se practicara lo aprendido en HTML a lo largo de la cursada
